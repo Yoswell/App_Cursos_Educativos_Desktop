@@ -1,3 +1,3 @@
 # App_Cursos_Educativos_Desktop
 
-![matricula](https://github.com/Yoswell/App_Cursos_Educativos_Desktop/assets/113799193/76b4e82c-62d7-4d38-abb6-f76422d8a318)
+![Captura de pantalla 2024-01-18 090921](https://github.com/Yoswell/App_Cursos_Educativos_Desktop/assets/113799193/26be4ec8-b318-4c07-93b2-486457c34af8)
